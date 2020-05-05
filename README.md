@@ -24,6 +24,6 @@ matrix에서 사용할 각 역의 index는 station_code.csv의 첫 번째 field�
 
 - Time tables of National Railway (국철) : [Link](http://www.letskorail.com/ebizcom/cs/guide/guide/guide11.do)
 - Time tables of Seoul Metro Line 1 to 8 : [Link](http://www.seoulmetro.co.kr/kr/board.do?menuIdx=546&bbsIdx=2209228)
-- Seoul Metro transfer stations : [Link] (http://www.seoulmetro.co.kr/kr/board.do?menuIdx=551&bbsIdx=2208455)
+- Seoul Metro transfer stations : [Link](http://www.seoulmetro.co.kr/kr/board.do?menuIdx=551&bbsIdx=2208455)
 - Seoul Metro Station Code Map : [Link](https://data.seoul.go.kr/dataList/OA-15442/S/1/datasetView.do)
 - Seoul Metro Station Locations : [Link](https://data.seoul.go.kr/dataList/OA-118/S/1/datasetView.do) 
